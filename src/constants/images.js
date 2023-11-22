@@ -38,7 +38,7 @@ import nb from '../assets/nb.png';
 import skype from '../assets/skype.png';
 import spotify from '../assets/spotify.png';
 import shoppy from '../assets/Shoppy.png';
-import resume from '../assets/js-dev.pdf';
+import resume from '../assets/Js-dev.pdf';
 import movieQuest from '../assets/MovieQuest.png'
 import imageFinder from '../assets/image-finder.png'
 import crm from '../assets/crm.png'
