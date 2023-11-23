@@ -11,7 +11,7 @@ const works = [
 
                 {imgUrl:images.movieQuest, tags:['All', 'React JS'], title:'Movie Searching App', name:'Movie Quest', projectLink:'https://movie-searching-app-ten.vercel.app', codeLink: 'https://github.com/jaffarsdq/Movie_Searching_App'},
 
-                {imgUrl:images.imageFinder, tags:['React JS','All', ], title:'Image Finder App', name:'Shoppy', projectLink:'https://e-commerce-react-app-jaffarsdq.vercel.app', codeLink: 'https://github.com/jaffarsdq/Image-search-app'},
+                {imgUrl:images.imageFinder, tags:['React JS','All', ], title:'Image Finder App', name:'Shoppy', projectLink:'https://image-search-app-jet.vercel.app/', codeLink: 'https://github.com/jaffarsdq/Image-search-app'},
 
                 {imgUrl:images.crm, tags:['All', 'React JS'], title:'Customer Relationship Management', name:'CRM', projectLink:'https://crm-web-app-one.vercel.app/', codeLink: 'https://github.com/jaffarsdq/crm-frontend.git'}
               ]
